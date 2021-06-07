@@ -6,4 +6,4 @@
 
 
 
-<img src="https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner1" alt="https://www.discord.gg/bEBxj5g"/>
+<img src="https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner1" src="https://www.discord.gg/bEBxj5g"/>
