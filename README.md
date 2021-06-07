@@ -6,4 +6,5 @@
 
 
 
-<img src="https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner1" src="https://www.discord.gg/bEBxj5g"/>
+![Discord Banner 4](https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner4)
+<img src="https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner4" alt="Discord Banner 4"/>
