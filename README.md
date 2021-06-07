@@ -4,6 +4,6 @@
 
 <img src="https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner1" alt="Discord Banner 1"/>
 
-<a href="https://discord.gg/bEBxj5g">
+<a> href="https://discord.gg/bEBxj5g">
    <input type="button" value="Join our discord server" />
 </a>
