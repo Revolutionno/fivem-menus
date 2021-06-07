@@ -6,4 +6,4 @@
 
 
 
-<iframe src="https://discord.com/widget?id=518416927023169566&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://discordapp.com/api/guilds/518416927023169566/widget.png?style=banner1" alt="Discord Banner 1"/>
